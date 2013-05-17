@@ -1,0 +1,20 @@
+{
+  "name": "select2",
+  "version": "3.3.2",
+  "main": "select2.js",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "scripts": [
+    "select2.js"
+  ],
+  "styles": [
+    "select2.css"
+  ],
+  "images": [
+    "select2.png",
+    "select2x2.png",
+    "select2-spinner.gif"
+  ],
+  "repo": "https://raw.github.com/redbadger/select2"
+}
